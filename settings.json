@@ -1,12 +1,12 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "FuckYou",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "rankedsm.mcsh.io",
+    "ip": "crystalplus.mcsh.io",
     "port": 25565,
     "version": "",
     "try-creative": false
